@@ -35,7 +35,7 @@ Le projet permet de :
 │
 ├── 📄 transactions.xlsx # Dataset original et nettoyé
 ├── 📄 README.md # Documentation du projet
-├── 📄 KPI-Reporting.xlsx # Analyses et visualisations
+├── 📄 Transactions_projects.xlsx # Analyses et visualisations
 ```
 ---
 
